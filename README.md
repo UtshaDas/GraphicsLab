@@ -170,4 +170,4 @@ Debug/
 
 ## Author
 
-**Utsha Das**, Roll 143034, Department of CSE, RUET
+**Utsha Das**, Department of CSE, RUET
